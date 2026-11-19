@@ -1,0 +1,104 @@
+1,101,Aceite Motul 5100 10W40,58000.0,1,Lubricantes y Quimicos,Aceites
+2,102,Aceite Motul 7100 10W40,74000.0,10,Lubricantes y Quimicos,Aceites
+3,103,Aceite Motul 3000 20W50,38000.0,23,Lubricantes y Quimicos,Aceites
+4,104,Aceite Mobil Super Moto 20W50,35000.0,20,Lubricantes y Quimicos,Aceites
+5,105,Aceite Mobil Super 4T 10W30,42000.0,15,Lubricantes y Quimicos,Aceites
+6,106,Aceite Castrol Power 1 10W40,55000.0,11,Lubricantes y Quimicos,Aceites
+7,007,Aceite Shell Advance AX7 10W40,46000.0,13,Lubricantes y Quimicos,Aceites
+8,008,Aceite Motul 10W30,69000.0,8,Lubricantes y Quimicos,Aceites
+9,009,Aceite Yamaha Yamalube 20W50,39000.0,18,Lubricantes y Quimicos,Aceites
+10,010,Aceite Repsol Moto Sport 10W40,48000.0,10,Lubricantes y Quimicos,Aceites
+27,027,Liquido de Frenos DOT 4 250ml,18000.0,16,Lubricantes y Quimicos,Aceites
+28,028,Liquido de Frenos DOT 3 250ml,14000.0,15,Lubricantes y Quimicos,Aceites
+72,072,Aceite Hidraulico Barras 10W 500ml,26000.0,13,Lubricantes y Quimicos,Aceites
+86,086,Limpiador de Carburador Aerosol,19000.0,20,Lubricantes y Quimicos,Aceites
+87,087,Lubricante de Cadena Motul C2 400ml,56000.0,12,Lubricantes y Quimicos,Aceites
+88,088,Limpiador de Cadena Motul C1 400ml,52000.0,10,Lubricantes y Quimicos,Aceites
+89,089,Lubricante de Cadena Simoniz 300ml,22000.0,24,Lubricantes y Quimicos,Aceites
+90,090,Aflojatodo Penetrante WD40 226g,25000.0,18,Lubricantes y Quimicos,Aceites
+91,091,Silicona Gris Alta Temperatura Loctite,24000.0,15,Lubricantes y Quimicos,Aceites
+92,092,Trabarroscas Azul Fijador Medio 10ml,28000.0,10,Lubricantes y Quimicos,Aceites
+93,093,Grasa de Litio Multiusos Pote 250g,16000.0,16,Lubricantes y Quimicos,Aceites
+11,011,Filtro de Aceite Generico 150cc,12000.0,30,Repuestos y Motor,Filtros
+12,012,Filtro de Aceite K&N Alto Flujo,65000.0,5,Repuestos y Motor,Filtros
+13,013,Filtro de Aceite Honda CB190R,18000.0,15,Repuestos y Motor,Filtros
+14,014,Filtro de Aceite Yamaha FZ16,16000.0,20,Repuestos y Motor,Filtros
+15,015,Filtro de Aceite Bajaj Pulsar NS200,15000.0,25,Repuestos y Motor,Filtros
+16,016,Filtro de Aire Pulsar NS200,24000.0,15,Repuestos y Motor,Filtros
+17,017,Filtro de Aire Yamaha FZ 2.0,28000.0,12,Repuestos y Motor,Filtros
+18,018,Filtro de Aire Honda XR150L,26000.0,14,Repuestos y Motor,Filtros
+19,019,Filtro de Aire AKT NKD 125,15000.0,24,Repuestos y Motor,Filtros
+20,020,Filtro de Aire Suzuki Gixxer 150,27000.0,10,Repuestos y Motor,Filtros
+41,041,Bujia NGK Iridium CR8EIX,52000.0,12,Repuestos y Motor,Filtros
+42,042,Bujia NGK Estandar CR8E,16000.0,35,Repuestos y Motor,Filtros
+43,043,Bujia NGK D8EA,14000.0,40,Repuestos y Motor,Filtros
+44,044,Bujia Bosch UR2CC,15000.0,25,Repuestos y Motor,Filtros
+45,045,Capuchon de Bujia NGK Siliconado,18000.0,20,Repuestos y Motor,Filtros
+59,059,Guaya de Embrague Clutch Universal,15000.0,25,Repuestos y Motor,Filtros
+60,060,Guaya de Acelerador Completa,16000.0,25,Repuestos y Motor,Filtros
+61,061,Guaya de Velocimetro 125cc,14000.0,18,Repuestos y Motor,Filtros
+62,062,Manigueta de Clutch Aluminio,18000.0,20,Repuestos y Motor,Filtros
+63,063,Manigueta de Freno Delantero,18000.0,20,Repuestos y Motor,Filtros
+64,064,Juego de Manilares Caucho Antideslizante,16000.0,22,Repuestos y Motor,Filtros
+65,065,Juego de Espejos Retrovisores 10mm,28000.0,15,Repuestos y Motor,Filtros
+66,066,Discos de Clutch Juego x5 Unidades,36000.0,14,Repuestos y Motor,Filtros
+67,067,Discos de Clutch Pulsar NS200 Juego,58000.0,10,Repuestos y Motor,Filtros
+68,068,Empaque Tapa Clutch 150cc,12000.0,20,Repuestos y Motor,Filtros
+69,069,Empaque Culata Cilindro 150cc,15000.0,18,Repuestos y Motor,Filtros
+70,070,Kit de Empaques Completo Motor 125cc,28000.0,12,Repuestos y Motor,Filtros
+71,071,Retenedores de Telescopica Par 31x43x10.5,24000.0,16,Repuestos y Motor,Filtros
+73,073,Cunas de Direccion Rodamientos Conicos,38000.0,12,Repuestos y Motor,Filtros
+74,074,Rodamiento de Rueda 6202 2RS,12000.0,30,Repuestos y Motor,Filtros
+75,075,Rodamiento de Rueda 6301 2RS,12000.0,30,Repuestos y Motor,Filtros
+76,076,Rodamiento de Rueda 6004 2RS,14000.0,25,Repuestos y Motor,Filtros
+77,077,Cauchos de Porta Sprocket Juego x4,18000.0,20,Repuestos y Motor,Filtros
+78,078,Tensor de Cadenilla de Distribucion,34000.0,10,Repuestos y Motor,Filtros
+79,079,Cadenilla de Distribucion 94 Eslabones,32000.0,12,Repuestos y Motor,Filtros
+80,080,Carburador PZ27 Completo,88000.0,6,Repuestos y Motor,Filtros
+81,081,Carburador PZ30 con Bomba de Pique,115000.0,5,Repuestos y Motor,Filtros
+82,082,Kit de Reparacion Carburador PZ27,18000.0,15,Repuestos y Motor,Filtros
+83,083,Filtro de Gasolina Magnetico Transparente,6000.0,40,Repuestos y Motor,Filtros
+84,084,Manguera de Gasolina Siliconada 1 Metro,8000.0,30,Repuestos y Motor,Filtros
+85,085,Llave de Paso de Gasolina Tanque,22000.0,15,Repuestos y Motor,Filtros
+21,021,Pastillas Freno Delanteras Sintetizadas,45000.0,14,Frenos y Arrastre,Pastillas
+22,022,Pastillas Freno Delanteras Semimetalicas,22000.0,30,Frenos y Arrastre,Pastillas
+23,023,Pastillas Freno Traseras Pulsar NS200,25000.0,20,Frenos y Arrastre,Pastillas
+24,024,Pastillas Freno Traseras Yamaha FZ,24000.0,17,Frenos y Arrastre,Pastillas
+25,025,Bandas de Freno Trasero Tambores 125cc,20000.0,25,Frenos y Arrastre,Pastillas
+26,026,Bandas de Freno Trasero AKT NKD 125,19000.0,22,Frenos y Arrastre,Pastillas
+29,029,Disco de Freno Delantero 260mm,95000.0,4,Frenos y Arrastre,Pastillas
+30,030,Disco de Freno Trasero 220mm,75000.0,5,Frenos y Arrastre,Pastillas
+31,031,Kit de Arrastre Cassarella 428H Reforzado,85000.0,12,Frenos y Arrastre,Pastillas
+32,032,Kit de Arrastre DID Dorado 428H,145000.0,8,Frenos y Arrastre,Pastillas
+33,033,Kit de Arrastre Cho Ho Pulsar NS200,115000.0,10,Frenos y Arrastre,Pastillas
+34,034,Kit de Arrastre AKT NKD 125,68000.0,15,Frenos y Arrastre,Pastillas
+35,035,Kit de Arrastre Yamaha FZ16,98000.0,10,Frenos y Arrastre,Pastillas
+36,036,Cadena Reforzada 428H 132 Eslabones,48000.0,14,Frenos y Arrastre,Pastillas
+37,037,Cadena Oring 520 120 Eslabones,135000.0,6,Frenos y Arrastre,Pastillas
+38,038,Pinon de Salida 14 Dientes,16000.0,20,Frenos y Arrastre,Pastillas
+39,039,Pinon de Salida 15 Dientes,16000.0,20,Frenos y Arrastre,Pastillas
+40,040,Catalina Trasera 42 Dientes Acero,38000.0,10,Frenos y Arrastre,Pastillas
+46,046,Bateria Gel 12V 5Ah YTX5L-BS,95000.0,10,Electrico y Llantas,Baterias
+47,047,Bateria Gel 12V 7Ah YTX7L-BS,115000.0,8,Electrico y Llantas,Baterias
+48,048,Bateria Gel 12V 9Ah YTX9-BS,135000.0,6,Electrico y Llantas,Baterias
+49,049,Regulador Rectificador de Voltaje 12V,45000.0,10,Electrico y Llantas,Baterias
+50,050,Bobina de Encendido Alta Tension,38000.0,12,Electrico y Llantas,Baterias
+51,051,CDI Racing Digital Universal,55000.0,8,Electrico y Llantas,Baterias
+52,052,Relay de Arranque Marranito 12V,22000.0,18,Electrico y Llantas,Baterias
+53,053,Bombillo LED H4 Luz Blanca 6000K,35000.0,20,Electrico y Llantas,Baterias
+54,054,Bombillo Halogeno H4 12V 35W,12000.0,30,Electrico y Llantas,Baterias
+55,055,Bombillo Stop Trasero LED Doble Contacto,8000.0,3,Electrico y Llantas,Baterias
+56,056,Juego de Direccionales LED Universales,28000.0,15,Electrico y Llantas,Baterias
+57,057,Flasher Electronico Direccionales LED,14000.0,20,Electrico y Llantas,Baterias
+58,058,Pito Claxon 12V Disco Negro,20000.0,16,Electrico y Llantas,Baterias
+94,094,Llanta Delantera 2.75-18 Sellomatic,135000.0,6,Electrico y Llantas,Baterias
+95,095,Llanta Trasera 100/90-18 Sellomatic,165000.0,6,Electrico y Llantas,Baterias
+96,096,Llanta Trasera 130/70-17 Pistera,210000.0,0,Electrico y Llantas,Baterias
+97,097,Neumatico Camara 2.75/3.00-18,22000.0,20,Electrico y Llantas,Baterias
+98,098,Neumatico Camara 90/90-17,24000.0,18,Electrico y Llantas,Baterias
+99,099,Valvula Recta Sellomatic para Rin,4000.0,40,Electrico y Llantas,Baterias
+100,100,Kit Despinche Rapido Mechas y Cemento,15000.0,25,Electrico y Llantas,Baterias
+101,201,espejos nkd,15000.0,3,Repuestos y Motor,Filtros
+1,001,Bujia NGK Boxer,15000.0,9,Repuestos,Partes y refacciones para motos
+2,002,Bujia NGK AKT NKD,18000.0,2,Repuestos,Partes y refacciones para motos
+3,003,Bujia NGK Pulsar,25000.0,12,Repuestos,Partes y refacciones para motos
